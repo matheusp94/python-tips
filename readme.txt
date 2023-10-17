@@ -1,0 +1,1 @@
+Compilado de pequenos códigos em python. Apenas para pratica
